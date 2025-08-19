@@ -65,9 +65,9 @@ Multiple real-world inspired projects showcasing versatility in full-stack devel
 ---
 
 ## 📊 GitHub Stats  
-![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=taher-travadi&show_icons=true&theme=radical)  
+![Taher's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercyless22&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taher-travadi&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mercyless22&layout=compact&theme=radical)  
 
 ---
 
