@@ -1,11 +1,3 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Taher+Travadi;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+PHP+%7C+Python;Building+industry-ready+projects+%26+contributing+to+open+source" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:22d3ee,50:a78bfa,100:f472b6&text=Taher%20Travadi&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20·%20React%20·%20Node.js%20·%20PHP%20·%20Python&descAlignY=70&descSize=18" alt="header" />
-</p>
 <p align="center">
   <!-- capsule background header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:22d3ee,50:a78bfa,100:f472b6&text=Taher%20Travadi&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20·%20React%20·%20Node.js%20·%20PHP%20·%20Python&descAlignY=70&descSize=18" alt="header" />
@@ -16,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Taher+Travadi;Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+PHP+%7C+Python;Building+industry-ready+projects+%26+contributing+to+open+source" alt="Typing SVG" />
 </p>
 
-
-# 👋 Hi, I'm Taher Travadi  
 
 💻 A passionate **Full-Stack Developer** with 2+ years of experience in building scalable, industry-ready solutions.  
 🚀 I enjoy blending technical expertise with creative problem-solving to craft real-world applications.  
